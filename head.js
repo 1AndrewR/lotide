@@ -5,3 +5,8 @@ const assertEqual = function(actual, expected) {
       console.log(`❌ Assertion Failed: ${actual} !== ${expected}`);
   }
 };
+
+const head = function(array) {
+  return array[0];
+};
+

@@ -30,4 +30,5 @@ function flatten(array) {
   return flattenedArray;
 }
 
+// test
 console.log(flatten([1, 2, [3, 4], 5, [6]]));

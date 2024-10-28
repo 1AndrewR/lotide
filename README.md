@@ -9,3 +9,4 @@ A Library of smaller functions based on lodash
 5. [assertArraysEqual.js](https://github.com/1AndrewR/lotide/blob/main/assertArraysEqual.js)
 6. [without.js](https://github.com/1AndrewR/lotide/blob/main/without.js)
 7. [flatten.js](https://github.com/1AndrewR/lotide/blob/main/flatten.js)
+8. [middle.js](https://github.com/1AndrewR/lotide/blob/main/middle.js)

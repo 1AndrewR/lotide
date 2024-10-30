@@ -12,3 +12,4 @@ A Library of smaller functions based on lodash
 8. [middle.js](https://github.com/1AndrewR/lotide/blob/main/middle.js)
 9. [countOnly.js](https://github.com/1AndrewR/lotide/blob/main/countOnly.js)
 10. [countLetters.js](https://github.com/1AndrewR/lotide/blob/main/countLetters.js)
+11. [letterPositions.js](https://github.com/1AndrewR/lotide/blob/main/letterPositions.js)

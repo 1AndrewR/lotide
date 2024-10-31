@@ -14,3 +14,4 @@ A Library of smaller functions based on lodash
 10. [countLetters.js](https://github.com/1AndrewR/lotide/blob/main/countLetters.js)
 11. [letterPositions.js](https://github.com/1AndrewR/lotide/blob/main/letterPositions.js)
 12. [findKeyByValue.js](https://github.com/1AndrewR/lotide/blob/main/findKeyByValue.js)
+13. [eqObjects.js](https://github.com/1AndrewR/lotide/blob/main/eqObjects.js)

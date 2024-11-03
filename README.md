@@ -17,3 +17,4 @@ A Library of smaller functions based on lodash
 13. [eqObjects.js](https://github.com/1AndrewR/lotide/blob/main/eqObjects.js)
 14. [assertObjectsEqual.js](https://github.com/1AndrewR/lotide/blob/main/assertObjectsEqual.js)
 15. [map.js](https://github.com/1AndrewR/lotide/blob/main/map.js)
+16. [takeUntil.js](https://github.com/1AndrewR/lotide/blob/main/takeUntil.js)

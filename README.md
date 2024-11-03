@@ -19,4 +19,3 @@ A Library of smaller functions based on lodash
 15. [map.js](https://github.com/1AndrewR/lotide/blob/main/map.js)
 16. [takeUntil.js](https://github.com/1AndrewR/lotide/blob/main/takeUntil.js)
 17. [findKey.js](https://github.com/1AndrewR/lotide/blob/main/findKey.js)
-18. [eqObjects.js](https://github.com/1AndrewR/lotide/blob/main/eqObjects.js)

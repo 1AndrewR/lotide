@@ -1,4 +1,3 @@
-const assertEqual = require("./assertEqual");
 const eqArrays = require("./eqArrays");
 
 const assertArraysEqual = function(array1, array2) {
@@ -8,4 +7,4 @@ const assertArraysEqual = function(array1, array2) {
     console.log(`🛑  Assertion failed: ${array1} !== ${array2}`);
   }
 };
-module.export = assertArraysEqual;
+module.exports = assertArraysEqual;

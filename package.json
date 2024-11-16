@@ -1,8 +1,8 @@
 {
-  "name": "lotide",
+  "name": "@westbeach/lotide",
   "version": "1.0.0",
-  "description": "Helper function Library based on lodash\"",
-  "main": "assertArraysEqual.js",
+  "description": "Function Library based on lodash\"",
+  "main": "index.js",
   "directories": {
     "test": "test"
   },
@@ -13,7 +13,7 @@
     "type": "git",
     "url": "git+https://github.com/1AndrewR/lotide.git"
   },
-  "author": "",
+  "author": "1AndrewR",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/1AndrewR/lotide/issues"
